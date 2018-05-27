@@ -44,6 +44,7 @@ main ul { color: #344060; }
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
     margin-top: 75px;
     margin-left: auto;
     margin-right: auto;
